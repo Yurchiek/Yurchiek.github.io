@@ -63,7 +63,7 @@ main img {
     text-align: center;
 }
 
-.BigBif {
+.CS {
     display: flex;
     justify-content: flex-start;
     align-items: center;       
@@ -75,13 +75,13 @@ main img {
     
 }
 
-.BigBif img {
+.CS img {
     margin-right: 20px;
     border-radius: 10px; 
 }
 
-.BigTasty {
-    display: flex;
+.RDR {
+    display: flex; 
     justify-content: flex-start;
     align-items: center;
     margin-right: 100px;
@@ -92,12 +92,12 @@ main img {
     
 }
 
-.BigTasty img {
-    margin-right: 20px;
+.RDR img {
+    margin-right: 20px; 
     border-radius: 10px;
 }
 
-.MacChicken {
+.Forest {
     display: flex;
     justify-content: flex-start;
     align-items: center;       
@@ -109,12 +109,12 @@ main img {
     
 }
 
-.MacChicken img {
+.Forest img {
     margin-right: 20px;
     border-radius: 10px; 
 }
 
-.DoubleRoyal {
+.Undertale {
     display: flex;           
     justify-content: flex-start;
     align-items: center;      
@@ -126,12 +126,12 @@ main img {
     
 }
 
-.DoubleRoyal img {
+.Undertale img {
     margin-right: 20px;
     border-radius: 10px;   
 }
 
-.BigMac {
+.DL {
     display: flex;           
     justify-content: flex-start;
     align-items: center;      
@@ -143,10 +143,63 @@ main img {
     
 }
 
-.BigMac img {
-    margin-right: 20px; 
-    border-radius: 10px;  
+.DL img {
+    margin-right: 20px;
+    border-radius: 10px;   
 }
+
+
+.GD {
+    display: flex;           
+    justify-content: flex-start;
+    align-items: center;      
+    margin-right: 100px;
+    margin-top: 100px;
+    font-family: "Oswald";
+    font-size: 36px;
+    color: #50c878;
+    
+}
+
+.GD img {
+    margin-right: 20px;
+    border-radius: 10px;   
+}
+
+.WA {
+    display: flex;           
+    justify-content: flex-start;
+    align-items: center;      
+    margin-right: 100px;
+    margin-top: 100px;
+    font-family: "Oswald";
+    font-size: 36px;
+    color: #50c878;
+    
+}
+
+.WA img {
+    margin-right: 20px;
+    border-radius: 10px;   
+}
+
+.Metro2033 {
+    display: flex;           
+    justify-content: flex-start;
+    align-items: center;      
+    margin-right: 100px;
+    margin-top: 100px;
+    font-family: "Oswald";
+    font-size: 36px;
+    color: #50c878;
+    
+}
+
+.Metro2033 img {
+    margin-right: 20px;
+    border-radius: 10px;   
+}
+
 
 footer {
     background-color: #00796b;

@@ -29,9 +29,7 @@ header ul li a {
     display: inline-block;
     white-space: normal;
     border-radius: 0;
-
-} 
-
+}
 
 main {
     display: flex;
@@ -39,6 +37,7 @@ main {
     padding: 0 50px;
     background-color: #4c4c4c;
 }
+
 
 main img {
     font-size: 48px;
@@ -53,9 +52,6 @@ main img {
     color: #50c878;
 }
 
-
-
-
 .main_text_mega {
     width: 80%;
     margin: 0 auto;
@@ -63,7 +59,7 @@ main img {
     text-align: center;
 }
 
-.BigBif {
+.Fandom {
     display: flex;
     justify-content: flex-start;
     align-items: center;       
@@ -75,77 +71,9 @@ main img {
     
 }
 
-.BigBif img {
+.Fandom img {
     margin-right: 20px;
     border-radius: 10px; 
-}
-
-.BigTasty {
-    display: flex;
-    justify-content: flex-start;
-    align-items: center;
-    margin-right: 100px;
-    margin-top: 100px;
-    font-family: "Oswald";
-    font-size: 36px;
-    color: #50c878;
-    
-}
-
-.BigTasty img {
-    margin-right: 20px;
-    border-radius: 10px;
-}
-
-.MacChicken {
-    display: flex;
-    justify-content: flex-start;
-    align-items: center;       
-    margin-right: 100px;
-    margin-top: 100px;
-    font-family: "Oswald";
-    font-size: 36px;
-    color: #50c878;
-    
-}
-
-.MacChicken img {
-    margin-right: 20px;
-    border-radius: 10px; 
-}
-
-.DoubleRoyal {
-    display: flex;           
-    justify-content: flex-start;
-    align-items: center;      
-    margin-right: 100px;
-    margin-top: 100px;
-    font-family: "Oswald";
-    font-size: 36px;
-    color: #50c878;
-    
-}
-
-.DoubleRoyal img {
-    margin-right: 20px;
-    border-radius: 10px;   
-}
-
-.BigMac {
-    display: flex;           
-    justify-content: flex-start;
-    align-items: center;      
-    margin-right: 100px;
-    margin-top: 100px;
-    font-family: "Oswald";
-    font-size: 36px;
-    color: #50c878;
-    
-}
-
-.BigMac img {
-    margin-right: 20px; 
-    border-radius: 10px;  
 }
 
 footer {
