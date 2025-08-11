@@ -23,7 +23,7 @@ header ul li a {
     text-decoration: none;
     color: #50c878;
     font-size: 30px;
-    font-weight: 400; /* Виправлено на правильне значення */
+    font-weight: 400;
     margin-right: 40px;
     background-color: #147a4b;
     display: inline-block;
@@ -35,14 +35,14 @@ header ul li a {
 
 main {
     display: flex;
-    flex-direction: column; /* Це дозволить розташувати елементи вертикально */
-    padding: 0 50px; /* Додано одиниці виміру */
+    flex-direction: column;
+    padding: 0 50px;
     background-color: #4c4c4c;
 }
 
 main img {
     font-size: 48px;
-    margin-top: 20px; /* Додаємо невеликий відступ зверху для картинки */
+    margin-top: 20px;
     margin-bottom: 40px;
 }
 
@@ -53,14 +53,18 @@ main img {
     color: #50c878;
 }
 
+
+
+
 .main_text_mega {
-    width: 80%; /* Встановили ширину */
-    margin: 0 auto; /* Центруємо по горизонталі */
+    width: 80%;
+    margin: 0 auto;
     font-size: 55px;
-    text-align: center; /* Центруємо текст */
+    text-align: center;
+    color: #50c878;
 }
 
-.CyberPunk {
+.Jojolion {
     display: flex;
     justify-content: flex-start;
     align-items: center;       
@@ -72,15 +76,15 @@ main img {
     
 }
 
-.CyberPunk img {
+.Jojolion img {
     margin-right: 20px;
     border-radius: 10px; 
 }
 
-.RDR {
-    display: flex;             /* Встановлюємо flexbox */
-    justify-content: flex-start; /* Текст і картинка зліва */
-    align-items: center;       /* Вирівнюємо по вертикалі */
+.SBR {
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
     margin-right: 100px;
     margin-top: 100px;
     font-family: "Oswald";
@@ -89,12 +93,12 @@ main img {
     
 }
 
-.RDR img {
-    margin-right: 20px;        /* Відступ між картинкою та текстом */
+.SBR img {
+    margin-right: 20px;
     border-radius: 10px;
 }
 
-.Forest {
+.GoldenWind {
     display: flex;
     justify-content: flex-start;
     align-items: center;       
@@ -106,12 +110,12 @@ main img {
     
 }
 
-.Forest img {
+.GoldenWind img {
     margin-right: 20px;
     border-radius: 10px; 
 }
 
-.Undertale {
+.E1 {
     display: flex;           
     justify-content: flex-start;
     align-items: center;      
@@ -123,12 +127,12 @@ main img {
     
 }
 
-.Undertale img {
+.E1 video {
     margin-right: 20px;
     border-radius: 10px;   
 }
 
-.DL {
+.E2 {
     display: flex;           
     justify-content: flex-start;
     align-items: center;      
@@ -140,13 +144,13 @@ main img {
     
 }
 
-.DL img {
+.E2 video {
     margin-right: 20px;
     border-radius: 10px;   
 }
 
 
-.Gta_5 {
+.E3  {
     display: flex;           
     justify-content: flex-start;
     align-items: center;      
@@ -158,28 +162,10 @@ main img {
     
 }
 
-.Gta_5 img {
+.E3 video {
     margin-right: 20px;
     border-radius: 10px;   
 }
-
-.Fnaf_SB {
-    display: flex;           
-    justify-content: flex-start;
-    align-items: center;      
-    margin-right: 100px;
-    margin-top: 100px;
-    font-family: "Oswald";
-    font-size: 36px;
-    color: #50c878;
-    
-}
-
-.Fnaf_SB img {
-    margin-right: 20px;
-    border-radius: 10px;   
-}
-
 
 
 footer {
