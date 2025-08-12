@@ -71,6 +71,7 @@ main {
     gap: 15px;
     margin-top: 40px;
     font-size: 20px;
+    color: #50c878; /* 🔹 Колір тексту */
 }
 
 .Jojolion img,
@@ -139,5 +140,3 @@ footer h2 {
         font-size: 36px;
     }
 }
-
-
