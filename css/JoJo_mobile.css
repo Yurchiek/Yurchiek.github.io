@@ -57,6 +57,22 @@ main {
     text-align: center;
 }
 
+.Jojolion
+.SBR
+.GoldenWind p {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+    gap: 15px;
+    margin-top: 40px;
+    font-size: 20px;
+    color: #50c878; /* 🔹 Колір тексту */
+}
+    
+
+
+
 /* ===== CONTENT BLOCKS ===== */
 .Jojolion,
 .SBR,
